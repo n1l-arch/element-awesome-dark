@@ -1,0 +1,22 @@
+{
+        "name": "Awesome Dark",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#f5f5f5",
+          "primary-color": "#f5f5f5",
+          "warning-color": "#f5f5f5",
+          "sidebar-color": "#111111",
+          "roomlist-background-color": "#111111",
+          "roomlist-text-color": "#f5f5f5",
+          "roomlist-text-secondary-color": "#f5f5f5",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#00000000",
+          "timeline-background-color": "#141414",
+          "timeline-text-color": "#f5f5f5",
+          "secondary-content": "#eeeeee",
+          "tertiary-content": "#eeeeee",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#141414"
+        }
+}
